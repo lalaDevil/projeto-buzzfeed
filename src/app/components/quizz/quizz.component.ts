@@ -1,6 +1,6 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import quizz__questions from "../../../../assets/data/quizz_questions.json"
+import quizz__questions from "../../../data/quizz_questions.json"
 @Component({
   selector: 'app-quizz',
   standalone: true,
